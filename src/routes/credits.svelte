@@ -10,13 +10,13 @@
         <h1>Credits</h1>
         <ul>
             <li>
-                <a target="_blank" href="https://github.com/WlodekM">WlodekM</a> - The creator of this client and it's main coder
+                <a target="_blank" href="https://github.com/biggiecheesetherat">Themeatly2 (aka biggiecheesetherat)</a> - Making Meowercord. 
             </li>
             <li>
-                <a target="_blank" href="https://github.com/MDWalters">M. D. Walters</a> - 2 commits 💀
+                <a target="_blank" href="https://github.com/WlodekM">WlodekM</a> - Creating the base of Meowercord.
             </li>
             <li>
-                <a target="_blank" href="https://github.com/meower-media-co/Meower-Svelte/tree/develop#contributors">The Meower Svelte team</a> - I "borrowed" some code from them but showier says its fine as long as I credit 🤷‍♂️
+                <a target="_blank" href="https://github.com/meower-media-co/">Meower Media</a> - For making Meower in the first place.
             </li>
         </ul>
     </Container>
